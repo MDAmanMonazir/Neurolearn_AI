@@ -93,10 +93,9 @@ This project was ideated and developed during the **Bob IBM Hackathon**. The goa
 
 ## 👨‍💻 Developer
 
-**MD Aman Munazir**
+**MD AMAN MONAZIR**
 
 * GitHub: [@MDAmanMonazir](https://www.google.com/search?q=https://github.com/MDAmanMonazir)
-* *Artificial Intelligence & Data Science*
 
 ---
 
