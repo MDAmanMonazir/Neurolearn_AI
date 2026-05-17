@@ -77,7 +77,7 @@ cd neurolearn-AI
 npm run dev
 
 ```
-# 💻 Neurolearn AI
+# Snapshot
 <img src="https://github.com/MDAmanMonazir/Neurolearn_AI/blob/31899ca68b5babd75af5599a4e2c8b5d66876a5d/Screenshot%202026-05-17%20160750.png" width="1902" height="992" alt="image" />
 
 
