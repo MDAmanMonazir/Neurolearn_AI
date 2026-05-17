@@ -78,7 +78,7 @@ npm run dev
 
 ```
 # 💻 Neurolearn AI
-<img src="C:\Users\mdama\Downloads\Screenshot 2026-05-17 160750.png" alt="Alt Text" width="600" />
+<img src="https://github.com/MDAmanMonazir/Neurolearn_AI/blob/31899ca68b5babd75af5599a4e2c8b5d66876a5d/Screenshot%202026-05-17%20160750.png" width="1902" height="992" alt="image" />
 
 
 
