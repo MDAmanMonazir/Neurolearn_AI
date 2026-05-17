@@ -1,8 +1,5 @@
-Here is a professional and structured `README.md` file tailored for your GitHub repository. You can copy this directly and paste it into your repository, replacing the bracketed placeholders `[like this]` with your specific tech stack details.
 
----
-
-# 🧠 Neurolearn AI
+# 🧠 Neurolearn AI -- IBM Bob Hackathon
 
 ### Link -  https://neurolearn-ai-ochre.vercel.app
 
@@ -22,12 +19,10 @@ Whether you want to learn a completely new topic from scratch or upload a specif
 ## 🛠️ Tech Stack
 
 * **AI & Logic:** Google Gemini API
-* **Frontend:** `[e.g., React.js / HTML & CSS / Next.js]`
-* **Backend:** `[e.g., Node.js / Python Flask / Django]`
-* **Database:** `[e.g., MongoDB / Firebase / PostgreSQL]`
-* **Authentication:** `[e.g., JWT / Firebase Auth]`
-
-*(Note: Update the tech stack above according to the exact frameworks you used).*
+* **Frontend:** `[ React.js / Next.js]`
+* **Backend:** `[ Node.js / Django]`
+* **Database:** `[ MongoDB ]`
+* **Authentication:** `[ JWT / Firebase Auth]`
 
 ## 🚀 Getting Started
 
